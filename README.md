@@ -22,7 +22,7 @@ Un gestor digital para coleccionistas del álbum de la Copa del Mundo 2026. Dise
 
 1.  **Clonar el repositorio**:
     ```bash
-    git clone [https://github.com/EdgarAntonioTorres/album-fifa-2026.git](https://github.com/EdgarAntonioTorres/album-fifa-2026.git)
+    git clone https://github.com/EdgarAntonioTorres/album-fifa-2026.git
     ```
 2.  **Configurar la Base de Datos**:
     * Crea una base de datos llamada `album2026`.
